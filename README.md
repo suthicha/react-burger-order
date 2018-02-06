@@ -15,8 +15,8 @@ cd react-burger-order
 ## Release History
 
 ## Meta
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=AXNclHBcwrk" target="_blank"><img src="http://img.youtube.com/vi/AXNclHBcwrk/1.jpg" 
-alt="" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AXNclHBcwrk" target="_blank"><img src="http://img.youtube.com/vi/AXNclHBcwrk/0.jpg" 
+alt="" width="500" height="250" border="10" /></a>
 
 
 <!-- Markdown link & img dfn's -->
