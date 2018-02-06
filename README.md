@@ -15,6 +15,9 @@ cd react-burger-order
 ## Release History
 
 ## Meta
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AXNclHBcwrk" target="_blank"><img src="http://img.youtube.com/vi/AXNclHBcwrk/1.jpg" 
+alt="" width="240" height="180" border="10" /></a>
+
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
