@@ -16,7 +16,7 @@ cd react-burger-order
 
 ## Meta
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AXNclHBcwrk" target="_blank"><img src="http://img.youtube.com/vi/AXNclHBcwrk/0.jpg" 
-alt="" width="500" height="250" border="10" /></a>
+alt="" width="100%" height="100%" border="10" /></a>
 
 
 <!-- Markdown link & img dfn's -->
