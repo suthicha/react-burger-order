@@ -2,7 +2,7 @@
 # Demo Builder Burger By ReactJS
 > This project help customer produce excel file from database to robot.
 
-![alt tag](https://drive.google.com/file/d/1iyxKlcNWDUc5JLVLXpqpkXq-2pLkT4UQ/view)
+![alt tag](https://drive.google.com/file/d/1iyxKlcNWDUc5JLVLXpqpkXq-2pLkT4UQ/view?usp=sharing)
 
 
 [![NPM Version][npm-image]][npm-url]
