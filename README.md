@@ -1,6 +1,5 @@
 
 # Demo Builder Burger By ReactJS
-> This project help customer produce excel file from database to robot.
 
 <a href="https://drive.google.com/uc?export=view&id=1iyxKlcNWDUc5JLVLXpqpkXq-2pLkT4UQ"><img src="https://drive.google.com/uc?export=view&id=1iyxKlcNWDUc5JLVLXpqpkXq-2pLkT4UQ" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
